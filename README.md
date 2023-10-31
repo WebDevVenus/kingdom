@@ -6,6 +6,7 @@ Welcome to the Kingdom's Valor game interface repository. Embark on a royal adve
 
 "Kingdom's Valor" is an immersive game where players dive into a world of royalty, strategy, and magic. This repository is your gateway to integrating a meticulously crafted HTML interface into your gaming experience. Navigate through the various sections, interact with princess profiles, and get one step closer to conquering the castle and claiming the throne.
 
+[![Kingdom's Valor](https://github.com/WebDevVenus/kingdom/blob/main/images/webpage.png)](https://webdevvenus.github.io/kingdom/)
 
 ## Features
 
