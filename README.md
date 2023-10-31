@@ -60,7 +60,7 @@ This HTML document is the main structure for the "Kingdom" fantasy game-themed w
 ## Technologies Used
 
 - HTML5
-- CSS3
+- TailwindCSS
 - JavaScript
 
 Embark on your journey, select your princess, and claim your throne in the Kingdom's Valor today!
