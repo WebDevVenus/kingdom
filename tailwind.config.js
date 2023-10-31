@@ -18,7 +18,7 @@ module.exports = {
         glowingOrange: 'hsl(20, 100%, 50%)',
       },
       fontFamily: {
-        'sans': ['Bodoni Moda', 'sans-serif'],
+        'sans': ['Libre Bodoni', 'sans-serif'],
 
       },
     },

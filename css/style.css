@@ -44,7 +44,7 @@ html {
   -o-tab-size: 4;
      tab-size: 4;
   /* 3 */
-  font-family: Bodoni Moda, sans-serif;
+  font-family: Libre Bodoni, sans-serif;
   /* 4 */
   font-feature-settings: normal;
   /* 5 */
@@ -669,10 +669,6 @@ h5 {
   background-color: rgb(51 65 85 / var(--tw-bg-opacity));
 }
 
-.pt-16 {
-  padding-top: 4rem;
-}
-
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
@@ -685,6 +681,10 @@ h5 {
 
 .font-bold {
   font-weight: 700;
+}
+
+.font-semibold {
+  font-weight: 600;
 }
 
 .leading-9 {
