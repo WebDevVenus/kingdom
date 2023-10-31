@@ -57,4 +57,9 @@ Quick links to each princess’s profile, ensuring seamless navigation through t
 
 This HTML document is the main structure for the "Kingdom" fantasy game-themed website, designed for modern web browsers. The site features four distinct princess characters, each presented in individual sections with images and descriptions. Utilizing Tailwind CSS for styling and Google Fonts for typography, the document ensures accessibility, responsiveness, and cross-browser compatibility. External links to stylesheets and images are provided, ensuring optimal performance and user experience.
 
+## Live Demo
+
+Check out the live demo of the project [here](https://webdevvenus.github.io/kingdom/).
+
+
 Embark on your journey, select your princess, and claim your throne in the Kingdom's Valor today!
