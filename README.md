@@ -6,6 +6,8 @@ Welcome to the Kingdom's Valor game interface repository. Embark on a royal adve
 
 "Kingdom's Valor" is an immersive game where players dive into a world of royalty, strategy, and magic. This repository is your gateway to integrating a meticulously crafted HTML interface into your gaming experience. Navigate through the various sections, interact with princess profiles, and get one step closer to conquering the castle and claiming the throne.
 
+![Screenshot of the Website](https://github.com/WebDevVenus/home-decoration/blob/main/images/webpage.png?raw=true)
+
 ## Features
 
 ### 1. Hero Section
@@ -51,11 +53,8 @@ Explore the diverse range of superpowers available to heroes in the game:
 ### 5. Footer
 Quick links to each princess’s profile, ensuring seamless navigation through the royal journey.
 
-## Usage
-To seamlessly integrate this interface into your game, ensure the following:
-- Link the required CSS file located at `css/style.css`.
-- Integrate the necessary Google Fonts.
-- Place all required images in the `images` directory.
-- Add a link to your webpage, creating a portal to the royal kingdom of "Kingdom's Valor."
+## HTML Structure
+
+This HTML document is the main structure for the "Kingdom" fantasy game-themed website, designed for modern web browsers. The site features four distinct princess characters, each presented in individual sections with images and descriptions. Utilizing Tailwind CSS for styling and Google Fonts for typography, the document ensures accessibility, responsiveness, and cross-browser compatibility. External links to stylesheets and images are provided, ensuring optimal performance and user experience.
 
 Embark on your journey, select your princess, and claim your throne in the Kingdom's Valor today!
